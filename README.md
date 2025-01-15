@@ -28,8 +28,8 @@ The production planning process was thoroughly analyzed, starting from raw mater
 - Cross-Functional Collaboration  
 
 ---
-<img width="1608" alt="Screenshot 2025-01-15 at 3 30 07 AM" src="https://github.com/user-attachments/assets/9d1a8621-c3df-4f45-807f-0ec7ae66c309" />
 <img width="1608" alt="Screenshot 2025-01-15 at 3 31 00 AM" src="https://github.com/user-attachments/assets/fae907ad-5e0f-44c0-ad03-402223813e97" />
+<img width="1608" alt="Screenshot 2025-01-15 at 3 30 07 AM" src="https://github.com/user-attachments/assets/9d1a8621-c3df-4f45-807f-0ec7ae66c309" />
 ---
 
 #### **Project Outcomes**  
