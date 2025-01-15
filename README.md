@@ -2,6 +2,7 @@
 This repository contains the project report, analysis, and solutions implemented during the optimization of a production planning process for a company specializing in water analysis products. The project aims to enhance operational efficiency, reduce inefficiencies, and implement automated solutions using advanced tools and methodologies.  
 ---
 <img width="533" alt="Screenshot 2025-01-15 at 3 29 04 AM" src="https://github.com/user-attachments/assets/c66b2684-2812-4675-8917-f05eabde16ea" />
+
 ---
 
 #### **Overview**  
@@ -17,6 +18,7 @@ The production planning process was thoroughly analyzed, starting from raw mater
 
 ---
 <img width="554" alt="Screenshot 2025-01-15 at 3 29 18 AM" src="https://github.com/user-attachments/assets/1853e3b3-d1fd-4edb-b3e6-9779a70e77ed" />
+
 ---
 
 #### **Skills and Techniques Used**  
@@ -30,6 +32,7 @@ The production planning process was thoroughly analyzed, starting from raw mater
 ---
 <img width="1608" alt="Screenshot 2025-01-15 at 3 31 00 AM" src="https://github.com/user-attachments/assets/fae907ad-5e0f-44c0-ad03-402223813e97" />
 <img width="1608" alt="Screenshot 2025-01-15 at 3 30 07 AM" src="https://github.com/user-attachments/assets/9d1a8621-c3df-4f45-807f-0ec7ae66c309" />
+
 ---
 
 #### **Project Outcomes**  
