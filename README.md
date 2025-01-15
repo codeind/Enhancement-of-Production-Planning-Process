@@ -3,6 +3,7 @@ This repository contains the project report, analysis, and solutions implemented
 ---
 <img width="533" alt="Screenshot 2025-01-15 at 3 29 04 AM" src="https://github.com/user-attachments/assets/c66b2684-2812-4675-8917-f05eabde16ea" />
 ---
+
 #### **Overview**  
 The production planning process was thoroughly analyzed, starting from raw material procurement to the distribution of finished goods. The legacy software tool and Oracle systems were integrated into the analysis, and inefficiencies in manual workflows and system integration were identified. The project implemented automation solutions, streamlined workflows, and proposed advanced forecasting techniques to improve accuracy and decision-making.  
 
@@ -17,6 +18,7 @@ The production planning process was thoroughly analyzed, starting from raw mater
 ---
 <img width="554" alt="Screenshot 2025-01-15 at 3 29 18 AM" src="https://github.com/user-attachments/assets/1853e3b3-d1fd-4edb-b3e6-9779a70e77ed" />
 ---
+
 #### **Skills and Techniques Used**  
 - Process Analysis and Reengineering  
 - Business Process Management and Improvement  
