@@ -1,4 +1,4 @@
-### **Production Planning Process Optimization Project**  
+# **Production Planning Process Optimization Project**  
 This repository contains the project report, analysis, and solutions implemented during the optimization of a production planning process for a company specializing in water analysis products. The project aims to enhance operational efficiency, reduce inefficiencies, and implement automated solutions using advanced tools and methodologies.  
 ---
 <img width="533" alt="Screenshot 2025-01-15 at 3 29 04 AM" src="https://github.com/user-attachments/assets/c66b2684-2812-4675-8917-f05eabde16ea" />
